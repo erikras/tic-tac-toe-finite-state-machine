@@ -1,0 +1,37 @@
+{
+  "name": "tic-tac-toe-finite-state-machine",
+  "description": "An exercise to build a tic-tac-toe finite state machine in typescript and xstate",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "2.1.3"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.6",
+    "@emotion/styled": "^10.0.6",
+    "@types/jest": "^23.3.13",
+    "@types/node": "^10.12.18",
+    "@types/react": "^16.7.20",
+    "@types/react-dom": "^16.0.11",
+    "react": "16.8.0-alpha.0",
+    "react-dom": "16.8.0-alpha.0",
+    "react-emotion": "^10.0.0",
+    "typescript": "^3.2.4",
+    "xstate": "^4.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
