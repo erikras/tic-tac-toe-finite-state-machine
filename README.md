@@ -8,7 +8,7 @@ The only game assumption is that `X` always goes first.
 
 ## [Run It!!](https://codesandbox.io/s/oq8m1y7n7q) 👀
 
-If you paste the contents of [`machine.ts`](blob/master/src/machine.ts) into the [Xstate Visualizer](https://statecharts.github.io/xstate-viz/), you get something that looks like the following. Pretty simple!! 🙄
+If you paste the contents of [`machine.ts`](https://github.com/erikras/tic-tac-toe-finite-state-machine/blob/master/src/machine.ts) into the [Xstate Visualizer](https://statecharts.github.io/xstate-viz/), you get something that looks like the following. Pretty simple!! 🙄
 
 ![StateChart](chart.jpg)
 
