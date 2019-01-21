@@ -1,4 +1,4 @@
-#Tic-Tac-Toe State Machine
+# Tic-Tac-Toe State Machine
 
 This was an experiment of mine both to learn Typescript and also Xstate. The state machine has 5,478 game states, and three "final" states of `X_WINS`, `O_WINS`, or `DRAW`.
 
@@ -8,7 +8,7 @@ The only game assumption is that `X` always goes first.
 
 ## [Run It!!](https://codesandbox.io/s/oq8m1y7n7q) 👀
 
-If you paste the contents of `machine.ts` into the [Xstate Visualizer](https://statecharts.github.io/xstate-viz/), you get something that looks like the following. Pretty simple!! 🙄
+If you paste the contents of [`machine.ts`](blob/master/src/machine.ts) into the [Xstate Visualizer](https://statecharts.github.io/xstate-viz/), you get something that looks like the following. Pretty simple!! 🙄
 
 ![StateChart](chart.jpg)
 
